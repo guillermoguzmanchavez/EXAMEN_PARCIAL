@@ -1,3 +1,5 @@
+package newpackage;
+
 
 import java.util.Scanner;
 
@@ -36,7 +38,7 @@ public class s13Ejercicio01 {
         //mostrar resultados
         for (int i = 0; i < scores.length; i++) {
             System.out.println("Estudiantes "+i+"su puntaje es "+scores[i]+"y su grado es "+grades[i]);
-            
+             
         }
     }
     
